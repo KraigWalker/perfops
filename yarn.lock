@@ -5854,10 +5854,10 @@ __metadata:
     postcss-normalize: 8.0.1
     postcss-preset-env: 6.7.0
     postcss-safe-parser: 4.0.1
-    react: next
+    react: experimental
     react-app-polyfill: ^1.0.6
     react-dev-utils: ^10.2.1
-    react-dom: next
+    react-dom: experimental
     resolve: 1.15.0
     resolve-url-loader: 3.1.1
     sass-loader: 8.0.2
@@ -13577,16 +13577,16 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react-dom@npm:next":
-  version: 0.0.0-d7382b6c4
-  resolution: "react-dom@npm:0.0.0-d7382b6c4"
+"react-dom@npm:experimental":
+  version: 0.0.0-experimental-d7382b6c4
+  resolution: "react-dom@npm:0.0.0-experimental-d7382b6c4"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-    scheduler: 0.0.0-d7382b6c4
+    scheduler: 0.0.0-experimental-d7382b6c4
   peerDependencies:
-    react: 0.0.0-d7382b6c4
-  checksum: 2/cb4b6d434da25e93aed49046ffba751d820c6655cc388d11cf99b058fea635582039d03d00f89a0a5ed6fe521ebecb0a8901dfa5e9d3b3298159900bd0052201
+    react: 0.0.0-experimental-d7382b6c4
+  checksum: 2/3b61cc462f6ed48fe8a0863de0ffff21dd1f8d76881d791bcec01fb66f7929cec309025962cd0fae375ae59798f336811118f68c0ec9cd0c925755f78344daf3
   languageName: node
   linkType: hard
 
@@ -13604,13 +13604,13 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react@npm:next":
-  version: 0.0.0-d7382b6c4
-  resolution: "react@npm:0.0.0-d7382b6c4"
+"react@npm:experimental":
+  version: 0.0.0-experimental-d7382b6c4
+  resolution: "react@npm:0.0.0-experimental-d7382b6c4"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-  checksum: 2/44548b2350a2d82a0d43239510c122e6cba059fb062c81d168d488fb5842a33f46d6b4fe2e42e67912fd31ea2fe8f0243bf115d7a3229c3238300b2231f104c5
+  checksum: 2/91ffbd6d22a0f29bcf0d2d9c0ea4879fac396b3ef22f2ae55fc9446bdcba4c662394d3ef017123a3607f8d37602f882d838ae8b94edd6d062e6d6fb46a0a866b
   languageName: node
   linkType: hard
 
@@ -14414,13 +14414,13 @@ resolve@1.1.7:
   languageName: node
   linkType: hard
 
-"scheduler@npm:0.0.0-d7382b6c4":
-  version: 0.0.0-d7382b6c4
-  resolution: "scheduler@npm:0.0.0-d7382b6c4"
+"scheduler@npm:0.0.0-experimental-d7382b6c4":
+  version: 0.0.0-experimental-d7382b6c4
+  resolution: "scheduler@npm:0.0.0-experimental-d7382b6c4"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-  checksum: 2/630a6210baef5d5bc5d75557c79fefa751c07b06d95378a4d5b7e6ff5f616b7a8f0c04b95382ae30cca0a59dca44088fb6062f6149e15cdf608a5819f5d479bb
+  checksum: 2/1c5c3dbaf9aa4456ffc70cb6f395366d61f4762033bc199f0b486ab8414755cc82c0ea48d2eec2365d044f8d67caed39a4bd040f610b5ed49f605fe51e491c8a
   languageName: node
   linkType: hard
 
